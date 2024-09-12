@@ -6,6 +6,7 @@ FOR EDUCATION PURPOSES ONLY !!!
 3. Open the main.bat file to launch the multiGORAS tool.
 
 Tasks:
+
 Task 1: File Stealer
 This task retrieves all files from the following directories: Pictures, Favorites, Videos, Downloads, Documents, and Desktop.
 Note: You can customize this by editing the script to include additional folders.
