@@ -1,7 +1,7 @@
 # multiGORAS
 FOR EDUCATION PURPOSES ONLY !!!
 
-1. Extract mt1.zip to your USB drive.
+1. Extract multiGORAS-main.zip to your USB drive.
 2. Plug the USB drive into the target device.
 3. Open the main.bat file to launch the multiGORAS tool.
 
