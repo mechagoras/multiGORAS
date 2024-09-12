@@ -22,3 +22,6 @@ Default password: ochenslojniyparol (You can change it by modifying line 7 of th
 Task 4: IP Configuration
 This task gathers network information, which will be saved in h1\output.txt.
 
+Sincerely,
+Dr. Mechagoras
+
