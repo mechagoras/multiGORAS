@@ -6,6 +6,7 @@ FOR EDUCATION PURPOSES ONLY !!!
 3. Open the main.bat file to launch the multiGORAS tool.
    
 Note: Windows Firewall will ask you not to open this file, but... who cares! Just trust me  ;D
+
 Tasks:
 
 Task 1: File Stealer
