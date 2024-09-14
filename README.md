@@ -10,6 +10,7 @@ Tasks:
 
 Task 1: File Stealer
 This task retrieves all files from the following directories: Pictures, Favorites, Videos, Downloads, Documents, and Desktop.
+
 Note: You can customize this by editing the script to include additional folders.
 The collected data will be stored in a folder named "all".
 
