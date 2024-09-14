@@ -26,5 +26,6 @@ This task gathers network information, which will be saved in h1\output.txt.
 
 Sincerely,
 Dr. Mechagoras
+=============================================================================================================================================================================
 ![image](https://github.com/user-attachments/assets/a01e97ea-b453-4e38-8ec5-b5c4f52a3893)
 
