@@ -23,7 +23,7 @@ This task locks the device and requires the correct password to unlock.
 Default password: ochenslojniyparol (You can change it by modifying line 7 of the script).
 
 Task 4: IP Configuration
-This task gathers network information, which will be saved in h1\output.txt.
+This task gathers network information, which will be saved in h1\output.txt ( Rename output.txt file as you wish, it will generate a new one by itself )
 
 Sincerely,
 Dr. Mechagoras
