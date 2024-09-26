@@ -1119,4 +1119,3 @@ start calc
 start mspaint 
 start notepad
 start write
-shutdown /s
