@@ -28,7 +28,7 @@ ping localhost -n 1 >nul
 echo.
 echo.
 ping localhost -n 1 >nul
-echo [97;1m DO NOT USE THIS TOOL ON YOURSELF !!! [0m
+echo [97;1m FOR EDUCATIONAL PURPOSES ONLY !!! [0m
 ping localhost -n 1 >nul
 echo [97;1m READ THE INSTRUCTION MULTIPLE TIMES BEFORE USING !!! [0m
 ping localhost -n 1 >nul
